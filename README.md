@@ -19,7 +19,7 @@ This is a simple Password Strength Checker written in Python. It evaluates the s
 
 1. **Clone the repository:**
 
-    git clone https://github.com/your-username/password-strength-checker.git
+    git clone https://github.com/sahsan21/password_strength_checker.git
     cd password-strength-checker
  
   
