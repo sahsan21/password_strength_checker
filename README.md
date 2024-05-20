@@ -19,12 +19,12 @@ This is a simple Password Strength Checker written in Python. It evaluates the s
 
 1. **Clone the repository:**
 
-    git clone https://github.com/sahsan21/password_strength_checker.git
+  git clone https://github.com/sahsan21/password_strength_checker.git
     cd password-strength-checker
  
   
 
-2. **Install required libraries (if any):**
+3. **Install required libraries (if any):**
 
     For this project, we use the `re` library, which is included in the standard Python library, so no additional libraries are needed.
 
